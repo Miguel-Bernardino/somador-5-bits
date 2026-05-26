@@ -28,8 +28,4 @@ Notas
 
 Autor
 
-- Desenvolvido por: (adicione seu nome aqui)
-
-Licença
-
-- Coloque aqui a licença desejada (por exemplo, MIT) ou remova esta seção se não for necessária.
+- Desenvolvido por: Miguel Bernardino Sousa Borges da Silva
