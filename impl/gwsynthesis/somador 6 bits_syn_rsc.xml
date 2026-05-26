@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="somador5bits" Register="14" Lut="34" T_Register="343(14)" T_Alu="161(0)" T_Lut="401(34)">
+ <SubModule name="leitor_0" Register="47" Alu="23" Lut="53" T_Register="47(47)" T_Alu="23(23)" T_Lut="53(53)"/>
+ <SubModule name="leitor_5" Register="47" Alu="23" Lut="53" T_Register="47(47)" T_Alu="23(23)" T_Lut="53(53)"/>
+ <SubModule name="leitor_4" Register="47" Alu="23" Lut="52" T_Register="47(47)" T_Alu="23(23)" T_Lut="52(52)"/>
+ <SubModule name="leitor_3" Register="47" Alu="23" Lut="53" T_Register="47(47)" T_Alu="23(23)" T_Lut="53(53)"/>
+ <SubModule name="leitor_2" Register="47" Alu="23" Lut="53" T_Register="47(47)" T_Alu="23(23)" T_Lut="53(53)"/>
+ <SubModule name="leitor_1" Register="47" Alu="23" Lut="50" T_Register="47(47)" T_Alu="23(23)" T_Lut="50(50)"/>
+ <SubModule name="leitor_rst" Register="47" Alu="23" Lut="53" T_Register="47(47)" T_Alu="23(23)" T_Lut="53(53)"/>
+</Module>

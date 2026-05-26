@@ -1,0 +1,25 @@
+{
+ "Device" : "GW2AR-18C",
+ "Files" : [
+  {
+   "Path" : "C:/Users/lickc/Desktop/Ic_wild/FPGA/somador 6 bits/src/leitor_de_botao.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/lickc/Desktop/Ic_wild/FPGA/somador 6 bits/src/somador.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/lickc/Desktop/Ic_wild/FPGA/somador 6 bits/src/somador5bits.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Users/lickc/Desktop/Ic_wild/FPGA/somador 6 bits/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

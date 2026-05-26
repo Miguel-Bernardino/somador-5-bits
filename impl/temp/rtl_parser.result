@@ -1,0 +1,108 @@
+[
+ {
+  "InstFile" : "C:/Users/lickc/Desktop/Ic_wild/FPGA/somador 6 bits/src/somador5bits.v",
+  "InstLine" : 1,
+  "InstName" : "somador5bits",
+  "ModuleFile" : "C:/Users/lickc/Desktop/Ic_wild/FPGA/somador 6 bits/src/somador5bits.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "somador5bits",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/lickc/Desktop/Ic_wild/FPGA/somador 6 bits/src/somador5bits.v",
+    "InstLine" : 15,
+    "InstName" : "leitor_0",
+    "ModuleFile" : "C:/Users/lickc/Desktop/Ic_wild/FPGA/somador 6 bits/src/leitor_de_botao.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "leitor_de_botao"
+   },
+   {
+    "InstFile" : "C:/Users/lickc/Desktop/Ic_wild/FPGA/somador 6 bits/src/somador5bits.v",
+    "InstLine" : 21,
+    "InstName" : "leitor_5",
+    "ModuleFile" : "C:/Users/lickc/Desktop/Ic_wild/FPGA/somador 6 bits/src/leitor_de_botao.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "leitor_de_botao"
+   },
+   {
+    "InstFile" : "C:/Users/lickc/Desktop/Ic_wild/FPGA/somador 6 bits/src/somador5bits.v",
+    "InstLine" : 27,
+    "InstName" : "leitor_4",
+    "ModuleFile" : "C:/Users/lickc/Desktop/Ic_wild/FPGA/somador 6 bits/src/leitor_de_botao.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "leitor_de_botao"
+   },
+   {
+    "InstFile" : "C:/Users/lickc/Desktop/Ic_wild/FPGA/somador 6 bits/src/somador5bits.v",
+    "InstLine" : 33,
+    "InstName" : "leitor_3",
+    "ModuleFile" : "C:/Users/lickc/Desktop/Ic_wild/FPGA/somador 6 bits/src/leitor_de_botao.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "leitor_de_botao"
+   },
+   {
+    "InstFile" : "C:/Users/lickc/Desktop/Ic_wild/FPGA/somador 6 bits/src/somador5bits.v",
+    "InstLine" : 39,
+    "InstName" : "leitor_2",
+    "ModuleFile" : "C:/Users/lickc/Desktop/Ic_wild/FPGA/somador 6 bits/src/leitor_de_botao.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "leitor_de_botao"
+   },
+   {
+    "InstFile" : "C:/Users/lickc/Desktop/Ic_wild/FPGA/somador 6 bits/src/somador5bits.v",
+    "InstLine" : 45,
+    "InstName" : "leitor_1",
+    "ModuleFile" : "C:/Users/lickc/Desktop/Ic_wild/FPGA/somador 6 bits/src/leitor_de_botao.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "leitor_de_botao"
+   },
+   {
+    "InstFile" : "C:/Users/lickc/Desktop/Ic_wild/FPGA/somador 6 bits/src/somador5bits.v",
+    "InstLine" : 53,
+    "InstName" : "leitor_rst",
+    "ModuleFile" : "C:/Users/lickc/Desktop/Ic_wild/FPGA/somador 6 bits/src/leitor_de_botao.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "leitor_de_botao"
+   },
+   {
+    "InstFile" : "C:/Users/lickc/Desktop/Ic_wild/FPGA/somador 6 bits/src/somador5bits.v",
+    "InstLine" : 106,
+    "InstName" : "sum_1",
+    "ModuleFile" : "C:/Users/lickc/Desktop/Ic_wild/FPGA/somador 6 bits/src/somador.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "somador"
+   },
+   {
+    "InstFile" : "C:/Users/lickc/Desktop/Ic_wild/FPGA/somador 6 bits/src/somador5bits.v",
+    "InstLine" : 114,
+    "InstName" : "sum_2",
+    "ModuleFile" : "C:/Users/lickc/Desktop/Ic_wild/FPGA/somador 6 bits/src/somador.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "somador"
+   },
+   {
+    "InstFile" : "C:/Users/lickc/Desktop/Ic_wild/FPGA/somador 6 bits/src/somador5bits.v",
+    "InstLine" : 122,
+    "InstName" : "sum_3",
+    "ModuleFile" : "C:/Users/lickc/Desktop/Ic_wild/FPGA/somador 6 bits/src/somador.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "somador"
+   },
+   {
+    "InstFile" : "C:/Users/lickc/Desktop/Ic_wild/FPGA/somador 6 bits/src/somador5bits.v",
+    "InstLine" : 130,
+    "InstName" : "sum_4",
+    "ModuleFile" : "C:/Users/lickc/Desktop/Ic_wild/FPGA/somador 6 bits/src/somador.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "somador"
+   },
+   {
+    "InstFile" : "C:/Users/lickc/Desktop/Ic_wild/FPGA/somador 6 bits/src/somador5bits.v",
+    "InstLine" : 138,
+    "InstName" : "sum_5",
+    "ModuleFile" : "C:/Users/lickc/Desktop/Ic_wild/FPGA/somador 6 bits/src/somador.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "somador"
+   }
+  ]
+ }
+]

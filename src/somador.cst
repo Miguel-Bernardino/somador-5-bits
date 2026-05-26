@@ -1,0 +1,43 @@
+IO_LOC  "clk" 4;
+IO_PORT "clk" IO_TYPE=LVCMOS33 PULL_MODE=UP;
+
+IO_LOC  "led[0]" 15;
+IO_PORT "led[0]" DRIVE=8 IO_TYPE=LVCMOS33;
+
+IO_LOC  "led[1]" 16;
+IO_PORT "led[1]" DRIVE=8 IO_TYPE=LVCMOS33;
+
+IO_LOC  "led[2]" 17;
+IO_PORT "led[2]" DRIVE=8 IO_TYPE=LVCMOS33;
+
+IO_LOC  "led[3]" 18;
+IO_PORT "led[3]" DRIVE=8 IO_TYPE=LVCMOS33;
+
+IO_LOC  "led[4]" 19;
+IO_PORT "led[4]" DRIVE=8 IO_TYPE=LVCMOS33;
+
+IO_LOC  "led[5]" 20;
+IO_PORT "led[5]" DRIVE=8 IO_TYPE=LVCMOS33;
+
+// *** CONFIGURAÇÕES DOS BOTÕES *** 
+
+IO_LOC  "btn[5]" 53;
+IO_PORT "btn[5]" IO_TYPE=LVCMOS33;
+
+IO_LOC  "btn[4]" 71;
+IO_PORT "btn[4]" IO_TYPE=LVCMOS33;
+
+IO_LOC  "btn[3]" 72;
+IO_PORT "btn[3]" IO_TYPE=LVCMOS33;
+
+IO_LOC  "btn[2]" 48;
+IO_PORT "btn[2]" IO_TYPE=LVCMOS33;
+
+IO_LOC  "btn[1]" 76;
+IO_PORT "btn[1]" IO_TYPE=LVCMOS33;
+
+IO_LOC  "btn[0]" 88;
+IO_PORT "btn[0]" IO_TYPE=LVCMOS33;
+
+IO_LOC  "rst" 87;
+IO_PORT "rst" IO_TYPE=LVCMOS33;

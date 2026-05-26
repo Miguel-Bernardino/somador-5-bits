@@ -1,0 +1,34 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'C:\Users\lickc\Desktop\Ic_wild\FPGA\somador 6 bits\src\leitor_de_botao.v'
+Analyzing Verilog file 'C:\Users\lickc\Desktop\Ic_wild\FPGA\somador 6 bits\src\somador.v'
+Analyzing Verilog file 'C:\Users\lickc\Desktop\Ic_wild\FPGA\somador 6 bits\src\somador5bits.v'
+Compiling module 'somador5bits'("C:\Users\lickc\Desktop\Ic_wild\FPGA\somador 6 bits\src\somador5bits.v":1)
+Compiling module 'leitor_de_botao'("C:\Users\lickc\Desktop\Ic_wild\FPGA\somador 6 bits\src\leitor_de_botao.v":1)
+Compiling module 'somador'("C:\Users\lickc\Desktop\Ic_wild\FPGA\somador 6 bits\src\somador.v":1)
+NOTE  (EX0101) : Current top module is "somador5bits"
+[5%] Running netlist conversion ...
+WARN  (CV0016) : Input cin is unused("C:\Users\lickc\Desktop\Ic_wild\FPGA\somador 6 bits\src\somador5bits.v":4)
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+WARN  (NL0002) : The module "somador" instantiated to "sum_1" is swept in optimizing("C:\Users\lickc\Desktop\Ic_wild\FPGA\somador 6 bits\src\somador5bits.v":112)
+WARN  (NL0002) : The module "somador" instantiated to "sum_2" is swept in optimizing("C:\Users\lickc\Desktop\Ic_wild\FPGA\somador 6 bits\src\somador5bits.v":120)
+WARN  (NL0002) : The module "somador" instantiated to "sum_3" is swept in optimizing("C:\Users\lickc\Desktop\Ic_wild\FPGA\somador 6 bits\src\somador5bits.v":128)
+WARN  (NL0002) : The module "somador" instantiated to "sum_4" is swept in optimizing("C:\Users\lickc\Desktop\Ic_wild\FPGA\somador 6 bits\src\somador5bits.v":136)
+WARN  (NL0002) : The module "somador" instantiated to "sum_5" is swept in optimizing("C:\Users\lickc\Desktop\Ic_wild\FPGA\somador 6 bits\src\somador5bits.v":144)
+[95%] Generate netlist file "C:\Users\lickc\Desktop\Ic_wild\FPGA\somador 6 bits\impl\gwsynthesis\somador 6 bits.vg" completed
+[100%] Generate report file "C:\Users\lickc\Desktop\Ic_wild\FPGA\somador 6 bits\impl\gwsynthesis\somador 6 bits_syn.rpt.html" completed
+GowinSynthesis finish
